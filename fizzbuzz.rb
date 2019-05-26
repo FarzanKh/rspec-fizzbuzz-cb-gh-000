@@ -3,11 +3,11 @@
 
 def fizzbuzz(int)
   if int%3 == 0
-    puts "Fizz"
+    "Fizz"
   elseif int%5 == 0
-    puts "Buzz"
+    "Buzz"
   
-  elseif int%3 == 0 && value%5 ==0
+  elseif int%3 == 0 && value%5 == 0
     puts "FizzBuzz"
   end
 end
