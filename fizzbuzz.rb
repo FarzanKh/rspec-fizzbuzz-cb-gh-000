@@ -8,6 +8,6 @@ def fizzbuzz(int)
     "Buzz"
   
   elseif int%3 == 0 && value%5 == 0
-    puts "FizzBuzz"
+    "FizzBuzz"
   end
 end
